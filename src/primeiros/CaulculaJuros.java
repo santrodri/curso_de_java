@@ -1,3 +1,5 @@
+package primeiros;
+
 public class CaulculaJuros {
     public static double calculaJuros(double capitalAplicado,double taxaDeJuros, int tempoDaAplicacao, double jurosCompostos){
         double montante = capitalAplicado*Math.pow(1+taxaDeJuros,tempoDaAplicacao);

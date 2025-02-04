@@ -1,3 +1,5 @@
+package primeiros;
+
 import java.util.Date;
 
 public class Saudacao {
